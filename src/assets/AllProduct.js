@@ -2,14 +2,14 @@ import kurti from './kurti.webp'
 import jeans from './jeans.webp'
 import saree from './saree.avif'
 import jacket from './jacket.webp'
-import p1_img from './1.avif'
-import p5_img from './2.webp'
-import p6_img from './3.png'
-import p7_img from './4.avif'
-import p8_img from './5.avif'
-import p9_img from './6.webp'
-import p10_img from './7.jpg'
-import p11_img from './8.avif'
+import Tshirt from './Tshirt.avif'
+import Dress from './Dress.webp'
+import Hoodie from './Hoodie.png'
+import Leggie from './Leggie.avif'
+import Shirt from './Shirt.avif'
+import BlackDress from './BlackDress.webp'
+import Sweater from './Sweater.jpg'
+import PinkDress from './PinkDress.avif'
 import men7 from './men7.png'
 import women7 from './women7.webp'
 import men8 from './men8.jpg'
@@ -36,14 +36,14 @@ let all_product = [
     { id: 2, name: "Jeans", category: "women", image:jeans, new_price: 60.0, old_price: 90.5 },
     { id: 3, name: "Saree", category: "women", image:saree, new_price: 75.0, old_price: 120.0 },
     { id: 4, name: "Jacket", category: "women", image: jacket, new_price: 90.0, old_price: 140.0 },
-    { id: 5, name: "T-Shirt", category: "men", image: p1_img, new_price: 45.0, old_price: 70.0 },
-    { id: 6, name: "Dress", category: "women", image: p5_img, new_price: 85.0, old_price: 130.0 },
-    { id: 7, name: "Hoodie", category: "men", image: p6_img, new_price: 95.0, old_price: 150.0 },
-    { id: 8, name: "Leggings", category: "women", image: p7_img, new_price: 55.0, old_price: 100.0 },
-    { id: 9, name: "Shirt", category: "men", image: p8_img, new_price: 70.0, old_price: 110.0 },
-    { id: 10, name: "Jumpsuit", category: "women", image: p9_img, new_price: 88.0, old_price: 135.0 },
-    { id: 11, name: "Sweater", category: "men", image: p10_img, new_price: 92.0, old_price: 145.0 },
-    { id: 12, name: "Gown", category: "women", image: p11_img, new_price: 99.0, old_price: 160.0 },
+    { id: 5, name: "T-Shirt", category: "men", image: Tshirt, new_price: 45.0, old_price: 70.0 },
+    { id: 6, name: "Dress", category: "women", image: Dress, new_price: 85.0, old_price: 130.0 },
+    { id: 7, name: "Hoodie", category: "men", image: Hoodie, new_price: 95.0, old_price: 150.0 },
+    { id: 8, name: "Leggings", category: "women", image: Leggie, new_price: 55.0, old_price: 100.0 },
+    { id: 9, name: "Shirt", category: "men", image: Shirt, new_price: 70.0, old_price: 110.0 },
+    { id: 10, name: "Jumpsuit", category: "women", image: BlackDress, new_price: 88.0, old_price: 135.0 },
+    { id: 11, name: "Sweater", category: "men", image: Sweater, new_price: 92.0, old_price: 145.0 },
+    { id: 12, name: "Gown", category: "women", image: PinkDress, new_price: 99.0, old_price: 160.0 },
 
     { id: 13, name: "Shorts", category: "men", image: men7, new_price: 40.0, old_price: 65.0 },
     { id: 14, name: "Top", category: "women", image: women7, new_price: 52.0, old_price: 85.0 },
