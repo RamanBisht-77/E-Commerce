@@ -13,7 +13,7 @@ const ShopCategory = (props) => {
       <img className='shopcategory-banner' src={props.banner} alt="" />
       <div className='shopcategory-indexSort'>
         <div className='shopcategory-sort'>
-          Sort by <img src={dropdown_icon} alt="" height="20px"/>
+          Sort by <img src={dropdown_icon} alt="img" height="20px"/>
         </div>
       </div>
       <div className="shopcategory-products">
