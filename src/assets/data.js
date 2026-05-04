@@ -1,7 +1,7 @@
-import kurti from '../assets/kurti.webp'
-import jeans from '../assets/jeans.webp'
-import saree from '../assets/saree.avif'
-import jacket from '../assets/jacket.webp'
+import kurti from './assets/kurti.webp'
+import jeans from './assets/jeans.webp'
+import saree from './assets/saree.avif'
+import jacket from './assets/jacket.webp'
 
 let data_product= [
      {

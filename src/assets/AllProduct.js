@@ -1,5 +1,3 @@
-
-
 import kurti from './kurti.webp'
 import jeans from './jeans.webp'
 import saree from './saree.avif'
@@ -12,32 +10,18 @@ import p8_img from './5.avif'
 import p9_img from './6.webp'
 import p10_img from './7.jpg'
 import p11_img from './8.avif'
-
 import men7 from './men7.png'
 import women7 from './women7.webp'
 import men8 from './men8.jpg'
 import women8 from './women8.png'
-// import p17_img from '../assets/p1.jpg'
-// import p18_img from '../assets/p1.jpg'
-// import p19_img from '../assets/p1.jpg'
-// import p20_img from '../assets/p1.jpg'
 import kid1 from './kid1.jpg'
-// import p22_img from '../assets/p1.jpg'
 import kid2 from './kid2.png'
-// import p24_img from '../assets/p1.jpg'
 import kid3 from './kid3.png'
-// import p26_img from '../assets/p1.jpg'
 import kid4 from './kid4.webp'
-// import p28_img from '../assets/p1.jpg'
 import kid5 from './kid5.png'
-// import p30_img from '../assets/p1.jpg'
 import kid6 from './kid6.png'
-// import p32_img from '../assets/p1.jpg'
 import kid7 from './kid7.webp'
-// import p34_img from '../assets/p1.jpg'
 import kid8 from './kid8.png'
-// import p36_img from '../assets/p1.jpg'
-
 
 let all_product = [
       {
