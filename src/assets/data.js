@@ -17,7 +17,8 @@
 //         { id: 2, name: "Jeans", category: "women", image:jeans, new_price: 60.0, old_price: 90.5 },
 //         { id: 3, name: "Saree", category: "women", image:saree, new_price: 75.0, old_price: 120.0 },
 //         { id: 4, name: "Jacket", category: "women", image: jacket, new_price: 90.0, old_price: 140.0 }
-// ]import Tshirt from './Tshirt.avif'
+// ]
+import Tshirt from './Tshirt.avif'
 import Dress from './Dress.webp'
 import Hoodie from './Hoodie.png'
 import Leggie from './Leggie.avif'
