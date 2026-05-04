@@ -27,7 +27,7 @@ import BlackDress from './BlackDress.webp'
 import Sweater from './Sweater.jpg'
 import PinkDress from './PinkDress.avif'
 
-let new_collections = [
+let data_product = [
            { id: 5, name: "T-Shirt", category: "men", image: Tshirt, new_price: 45.0, old_price: 70.0 },
            { id: 6, name: "Dress", category: "women", image: Dress, new_price: 85.0, old_price: 130.0 },
            { id: 7, name: "Hoodie", category: "men", image: Hoodie, new_price: 95.0, old_price: 150.0 },
